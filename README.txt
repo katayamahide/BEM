@@ -1,0 +1,11 @@
+<header class="header"> //サイトヘッダー
+<footer class="footer"> //サイトフッター
+<nav class="gnav"> //グローバルナビ
+<main class="main"> //メインコンテンツ
+<header class="ch"> //コンテンツヘッダー
+<footer class="cf"> //コンテンツフッター
+<nav class="snav"> //サイドナビ
+<nav class="fnav"> //フッターナビ
+<nav class="share"> //シェアナビ
+<nav class="paging"> //ページング
+<section class="sec"> //セクション
