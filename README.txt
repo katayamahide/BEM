@@ -8,26 +8,26 @@ Block
 
 
 Element
-<p class="block-text"> //テキスト系
-<p class="block-titel"> //タイトル系
-<p class="block-button"> //ボタン系
-<p class="block-logo"> //ロゴ系
-<p class="block-data"> //input系
+<p class="block__text"> //テキスト系
+<p class="block__titel"> //タイトル系
+<p class="block__button"> //ボタン系
+<p class="block__logo"> //ロゴ系
+<p class="block__data"> //input系
 
-<div class="block-inner">
-<div class="block-outer">
-<div class="block-wrap">
-<div class="block-box">
+<div class="block__inner">
+<div class="block__outer">
+<div class="block__wrap">
+<div class="block__box">
 
-<h1〜h6 class="block-title">
-<table class="block-table">
-<th class="block-title">
-<td class="block-tdata">
-<ul class="block-list">
-<ol class="block-list">
-<li class="block-item">
-<dl class="block-def">
-<dt class="block-dtit">
-<dd class="block-data">
-<form class="block-form">
-<figure class="block-picture">
+<h1〜h6 class="block__title">
+<table class="block__table">
+<th class="block__title">
+<td class="block__tdata">
+<ul class="block__list">
+<ol class="block__list">
+<li class="block__item">
+<dl class="block__def">
+<dt class="block__dtit">
+<dd class="block__data">
+<form class="block__form">
+<figure class="block__picture">
