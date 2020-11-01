@@ -34,4 +34,4 @@ Element
 
 
 vsCode ショートカット
-整形  ⌘+Shift+F
+整形  Option+Shift+F
