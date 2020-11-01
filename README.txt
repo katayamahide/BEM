@@ -31,3 +31,7 @@ Element
 <dd class="block__data">
 <form class="block__form">
 <figure class="block__picture">
+
+
+vsCode ショートカット
+整形  ⌘+Shift+F
